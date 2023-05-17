@@ -31,11 +31,9 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
-- :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Data.
-
-- :zap: In my free time, I solve problems on Hackerrank, Codewars and read tech articles.
+- :zap: "In my free time, I usually practice working with store templates to enhance my coding skills, or I focus on algorithmic problem-solving exercises...".
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-minhtien1402-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minhtien1402)
 
